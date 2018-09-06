@@ -2,7 +2,7 @@
 
 因为Gitbook是基于nodejs环境来运行的，所以先准备Nodejs的基础环境，从Nodejs官网下载地址[https://nodejs.org/en/download/](https://nodejs.org/en/download/)下载适合的版本即可,这里选择当前最新的8.11.4 TLS版本。
 
-![](images/nodejs.png)
+![](../images/nodejs.png)
 
 在电脑安装之后，用命令行验证Nodejs的版本：
 
