@@ -1,6 +1,6 @@
 ## GitBook的安装
 
-为了能在任何目录下使用Gitbook-Cli，我们需要进行全局安装Gitbook：
+为了能在任何目录下使用Gitbook-Cli，我们需要进行全局安装Gitbook,最佳方案就是直接使用`npm`来安装：
 
 	npm install -g gitbook-cli
 
